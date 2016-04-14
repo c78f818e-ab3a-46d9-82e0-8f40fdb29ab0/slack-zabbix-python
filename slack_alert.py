@@ -7,9 +7,8 @@ import json
 import sys
 
 # variables
-token = 'xoxb-27998482242-wEajhKb8yWwP705MM6WPrUnK'
-incomingwebhook = 'https://hooks.slack.com/services/T050VB4F4/B0TVBUZTL/zkJY65jflX7HxX14tW98
-lNMW'
+token = 'xxx'
+incomingwebhook = 'https://hooks.slack.com/services/xxx'
 username = 'Zabbix'
 
 # functions
